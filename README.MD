@@ -1,1 +1,6 @@
 # logo-assets
+This repo is dedicated to the management of the artifacts associated with the ToIP Foundation's logo related digital resources.
+
+## Acknowledgements
+The logo resources in this repo were generously produced and contributed by
+[Peter Stoyko](https://www.linkedin.com/in/stoyko/) of [Elancia](elanica.com). The [Logo Design Brief](ToIP_Logo_Design_Brief.pdf) provides deep insight into the concepts behind the ToIP Logo. This brief also exemplifies Peter's philosophy for the design and purpose of logos.
