@@ -9,17 +9,11 @@ The logo resources in this repo were generously produced and contributed by
 
 | Filename | Image |
 | --- | --- |
-| 		
-ToIP-Logo-Color-SolidDimensional-Horizontal-DarkonLight.svg |
+| ToIP-Logo-Color-SolidDimensional-Horizontal-DarkonLight.svg |
 <img src="./logos/ToIP-Logo-Color-SolidDimensional-Horizontal-DarkonLight.svg"  width="300" height="300"> |
-| 		
-ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg"  width="300" height="300"> |
-| 		
-ToIP-Logo-Color-SolidDimensional-Isolated-DarkOnLight.svg |
+| ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg"  width="300" height="300"> |
+| ToIP-Logo-Color-SolidDimensional-Isolated-DarkOnLight.svg |
 <img src="./logos/ToIP-Logo-Color-SolidDimensional-Isolated-DarkOnLight.svg"  width="300" height="300"> |
-| 		
-ToIP-Logo-Color-SolidDimensional-Isolated-LightOnDark.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Isolated-LightOnDark.svg"  width="300" height="300"> |
-| 		
-ToIP-Logo-Color-SolidDimensional-Vertical-DarkOnLight.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Vertical-DarkOnLight.svg"  width="300" height="300"> |
-| 		
-ToIP-Logo-Color-SolidDimensional-Vertical-LightOnDark.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Vertical-LightOnDark.svg"  width="300" height="300"> |
+| ToIP-Logo-Color-SolidDimensional-Isolated-LightOnDark.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Isolated-LightOnDark.svg"  width="300" height="300"> |
+| ToIP-Logo-Color-SolidDimensional-Vertical-DarkOnLight.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Vertical-DarkOnLight.svg"  width="300" height="300"> |
+| ToIP-Logo-Color-SolidDimensional-Vertical-LightOnDark.svg | <img src="./logos/ToIP-Logo-Color-SolidDimensional-Vertical-LightOnDark.svg"  width="300" height="300"> |
